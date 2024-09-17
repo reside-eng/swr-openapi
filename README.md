@@ -16,7 +16,7 @@
 ## Installation
 
 ```sh
-npm install swr-openapi swr openapi-fetch
+yarn add @side/swr-openapi swr openapi-fetch
 ```
 
 ## Setup
